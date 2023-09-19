@@ -1,1 +1,2 @@
-# html-example
+# htmlacademy-example
+htmlacademy. Пробный репозиторий. Подготовка к git
